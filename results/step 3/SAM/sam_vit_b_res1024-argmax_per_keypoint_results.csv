@@ -1,0 +1,2 @@
+model_key,use_softargmax,total_keypoints,total_image_pairs,PCK@0.05,PCK@0.1,PCK@0.15,PCK@0.2
+sam_vit_b_res1024,False,88328,12234,33.028031881170186,44.07775563807626,51.89181233583915,58.07331763427226
