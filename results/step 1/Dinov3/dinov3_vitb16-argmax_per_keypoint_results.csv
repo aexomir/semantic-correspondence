@@ -1,0 +1,2 @@
+model_key,use_softargmax,total_keypoints,total_image_pairs,PCK@0.05,PCK@0.1,PCK@0.15,PCK@0.2
+dinov3_vitb16,False,88328,12234,36.658817136128974,53.56738520061589,62.68906801920116,68.36903360202881
