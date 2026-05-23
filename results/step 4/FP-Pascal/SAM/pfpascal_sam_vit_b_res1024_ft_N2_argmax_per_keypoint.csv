@@ -1,0 +1,2 @@
+model_key,dataset,total_keypoints,total_image_pairs,PCK@0.05,PCK@0.1,PCK@0.15,PCK@0.2
+sam_vit_b_res1024,PF-Pascal,10945,1351,35.93421653723161,48.98126998629511,58.867062585655546,66.78848789401553
