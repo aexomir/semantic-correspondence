@@ -1,0 +1,2 @@
+model_key,dataset,total_keypoints,total_image_pairs,PCK@0.05,PCK@0.1,PCK@0.15,PCK@0.2
+dinov2_vitl14,PF-Pascal,10945,1351,66.99862951119232,84.28506167199635,90.91822750114208,94.0886249428963
