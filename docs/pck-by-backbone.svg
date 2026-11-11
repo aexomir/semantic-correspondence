@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" font-family="Geist, system-ui, -apple-system, sans-serif" role="img" aria-labelledby="t">
+<title id="t">PCK@0.1 on SPair-71k by backbone: frozen, fine-tuned, and fine-tuned with soft-argmax</title>
+<rect width="760" height="420" rx="12" fill="#f6f5f2"/>
+<text x="56" y="30" font-size="16" font-weight="600" fill="#171716">PCK@0.1 on SPair-71k (%)</text>
+<rect x="270" y="44" width="10" height="10" rx="2" fill="#b9b7ae"/><text x="286" y="53" font-size="12" fill="#6c6b66">Frozen</text>
+<rect x="420" y="44" width="10" height="10" rx="2" fill="#5f9a7c"/><text x="436" y="53" font-size="12" fill="#6c6b66">Fine-tuned</text>
+<rect x="570" y="44" width="10" height="10" rx="2" fill="#1f6b47"/><text x="586" y="53" font-size="12" fill="#6c6b66">Fine-tuned + soft-argmax</text>
+<line x1="56" x2="740" y1="356" y2="356" stroke="#171716" stroke-opacity="0.3"/><text x="48" y="360" font-size="11" text-anchor="end" fill="#6c6b66">0</text>
+<line x1="56" x2="740" y1="297.6" y2="297.6" stroke="#171716" stroke-opacity="0.08"/><text x="48" y="301.6" font-size="11" text-anchor="end" fill="#6c6b66">20</text>
+<line x1="56" x2="740" y1="239.2" y2="239.2" stroke="#171716" stroke-opacity="0.08"/><text x="48" y="243.2" font-size="11" text-anchor="end" fill="#6c6b66">40</text>
+<line x1="56" x2="740" y1="180.8" y2="180.8" stroke="#171716" stroke-opacity="0.08"/><text x="48" y="184.8" font-size="11" text-anchor="end" fill="#6c6b66">60</text>
+<line x1="56" x2="740" y1="122.39999999999998" y2="122.39999999999998" stroke="#171716" stroke-opacity="0.08"/><text x="48" y="126.39999999999998" font-size="11" text-anchor="end" fill="#6c6b66">80</text>
+<line x1="56" x2="740" y1="64" y2="64" stroke="#171716" stroke-opacity="0.08"/><text x="48" y="68" font-size="11" text-anchor="end" fill="#6c6b66">100</text>
+<rect x="84" y="199.5756" width="52" height="156.4244" rx="3" fill="#b9b7ae"/><text x="110" y="193.5756" font-size="12" font-weight="600" text-anchor="middle" fill="#171716">53.6</text>
+<rect x="144" y="138.51839999999999" width="52" height="217.48160000000001" rx="3" fill="#5f9a7c"/><text x="170" y="132.51839999999999" font-size="12" font-weight="600" text-anchor="middle" fill="#171716">74.5</text>
+<rect x="204" y="132.8828" width="52" height="223.1172" rx="3" fill="#1f6b47"/><text x="230" y="126.8828" font-size="12" font-weight="600" text-anchor="middle" fill="#171716">76.4</text>
+<text x="170" y="380" font-size="13" text-anchor="middle" fill="#171716">DINOv3 ViT-B/16</text>
+<rect x="312" y="193.9984" width="52" height="162.0016" rx="3" fill="#b9b7ae"/><text x="338" y="187.9984" font-size="12" font-weight="600" text-anchor="middle" fill="#171716">55.5</text>
+<rect x="372" y="143.27800000000002" width="52" height="212.72199999999998" rx="3" fill="#5f9a7c"/><text x="398" y="137.27800000000002" font-size="12" font-weight="600" text-anchor="middle" fill="#171716">72.8</text>
+<rect x="432" y="141.4092" width="52" height="214.5908" rx="3" fill="#1f6b47"/><text x="458" y="135.4092" font-size="12" font-weight="600" text-anchor="middle" fill="#171716">73.5</text>
+<text x="398" y="380" font-size="13" text-anchor="middle" fill="#171716">DINOv2 ViT-L/14</text>
+<rect x="540" y="284.6936" width="52" height="71.3064" rx="3" fill="#b9b7ae"/><text x="566" y="278.6936" font-size="12" font-weight="600" text-anchor="middle" fill="#171716">24.4</text>
+<rect x="600" y="227.28640000000001" width="52" height="128.71359999999999" rx="3" fill="#5f9a7c"/><text x="626" y="221.28640000000001" font-size="12" font-weight="600" text-anchor="middle" fill="#171716">44.1</text>
+<rect x="660" y="221.62159999999997" width="52" height="134.37840000000003" rx="3" fill="#1f6b47"/><text x="686" y="215.62159999999997" font-size="12" font-weight="600" text-anchor="middle" fill="#171716">46.0</text>
+<text x="626" y="380" font-size="13" text-anchor="middle" fill="#171716">SAM ViT-B</text>
+<text x="56" y="406" font-size="11" fill="#6c6b66">Source: results/Final-report.csv (12,234 test pairs). Fine-tuned = best N unfrozen blocks per backbone.</text>
+</svg>
